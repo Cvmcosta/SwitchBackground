@@ -55,8 +55,14 @@
     npm start "antman.jpg" "thanos_ass.jpg"
     ```
 
-    
+### General Results
 
+<div align="center">
+<br>
+<br>
+<img width="160" src="default_img_output.png" alt="Default_bg">
+<br>
+</div>
 
 
 ## License
