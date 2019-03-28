@@ -3,3 +3,4 @@
 *.png
 !default_bg.jpg
 !default_img.jpg
+!default_img_output.png
